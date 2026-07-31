@@ -120,5 +120,4 @@ The server will start listening on `http://localhost:8080`.
 
 ## 🎥 Deliverables
 
-* **Project Demo Video:** [INSERT_LINK_HERE] (A full demonstration of the application explaining all the features via Insomnia).
-* **Code Walkthrough Video:** [INSERT_LINK_HERE] (A technical rundown of the Go architecture, routing, middleware, and database logic).
+* **Project Demo Video:** [https://drive.google.com/file/d/1fmUdgpTx49iaXjbKeiGjXZK_Qc0j4FjV/view?usp=sharing] (A full demonstration of the application explaining all the features via Insomnia).
